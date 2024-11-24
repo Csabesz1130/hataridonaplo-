@@ -5,7 +5,7 @@ def main():
     kezelo = EsemenyKezelo()
     
     while True:
-        print("\nHatáridőnapló - Félkész változat")
+        print("\nHatáridőnapló")
         print("1. Új esemény")
         print("2. Mai események")
         print("3. Mentés fájlba")
